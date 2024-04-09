@@ -1,0 +1,549 @@
+brandid,brandname,overall_weighted_score,google_avg_local_rank,facebook_engagement_rate,google_avg_rating
+3347,Lapels Cleaners,47,5.4,0.0032,4.58
+3433,Value Pawn & Jewelry,46,2.99,0.0141,4.68
+3467,Planet Home Lending,27,6.86,0.008,4.18
+3468,Ewing Outdoor Supply,37,1.75,0.0025,4.64
+3544,Teaspoon,51,8.47,0.0305,4.66
+3576,Southwood Realty,31,14.22,0.0084,3.98
+3645,Crye-Leike,33,16.26,0.0158,4.14
+3157,Papé,51,6.59,0.0039,4.36
+3280,UL Coleman Properties,35,17.62,0.0064,3.97
+3281,Avise Properties,26,15.17,0.0552,3.68
+3282,Wirtz Realty Corporation,23,24.06,0.0011,4.26
+3283,Krispy Krunchy Chicken,32,3.68,0.0052,3.99
+3315,Fidelity National Financial,32,9.55,0.0275,4.12
+3348,Lash Lounge,76,1.86,0.001,4.76
+3397,Fareway Grocery,57,1.5,0.0056,4.63
+3469,Pet Butler,48,23.46,0.0014,4.48
+3470,Velo Residential,33,19.27,0.0054,3.63
+3511,School of Rock,63,2.0,0.0056,4.82
+3646,DXP Enterprises,27,15.7,0.0101,4.26
+3284,Carquest - All Time,49,3.75,0.0126,4.54
+3316,Fifth Third Bank ,31,18.94,2.1044,3.16
+3349,Rocket Mortgage,45,18.0,0.0006,3.76
+3436,Keller Williams,36,21.28,0.0087,4.83
+3647,Re-Bath,53,5.77,0.0013,4.51
+3285,NextCare Urgent Care,67,1.67,0.0002,4.5
+3317,Lincoln Financial Group,23,7.67,0.0326,2.55
+3439,Greco’s Pizza,36,2.61,0.0031,3.74
+3474,GOLDMARK Property Management,25,22.34,0.0104,3.09
+3548,GardaWorld,33,13.81,0.0088,3.07
+3579,Gold Financial Services,38,17.4,0.0045,4.39
+3580,El Pollo Loco,56,18.89,0.0105,3.96
+3615,Epcon Community,27,21.03,0.034,4.34
+3648,Doherty Auto Group,63,25.0,0.0047,4.33
+3286,Salon Lofts,41,12.5,0.1383,4.7
+3318,Modern Woodmen of America,29,19.63,0.001,4.31
+3400,Dryer Vent Squad,44,23.7,0.0523,4.96
+3401,The Corcoran Group,31,24.84,0.0098,4.92
+3402,Century 21,37,21.93,0.0124,4.78
+3440,Weston Associates Management Company,24,17.15,0.0269,3.68
+3476,LaRosa’s,65,4.08,1.7055,4.21
+3550,Earls Kitchen + Bar,65,7.91,0.0088,4.19
+3616,Sarku Japan,31,8.97,0.0271,3.84
+3650,Priderock Capital Partners,37,18.46,0.0001,3.21
+3581,Abbey Carpet & Floor,46,4.41,0.017,4.59
+3287,Central Bark,69,2.94,0.0075,4.71
+3319,Morgan Stanley,22,24.47,0.0034,5.0
+3403,Infinity Insurance,25,24.61,0.0291,2.72
+3404,Progressive Insurance,33,22.3,0.0083,3.24
+3441,Eagle Property Capital,34,12.53,0.0021,3.48
+3442,Prime Group,39,16.16,0.0007,3.73
+3477,Surface Experts,25,25.0,0.0085,4.63
+3478,California Commercial Investment Group,24,15.55,0.0244,3.72
+3551,Mitsubishi,49,8.73,0.0029,4.27
+3617,Cobblestone Hotels,57,2.4,0.0102,4.36
+3651,Three Dog Bakery,49,13.16,0.0052,4.84
+3652,Keller Investment Properties,40,14.0,0.0015,3.58
+3653,Nelson Partners,33,24.44,0.0013,3.23
+3320,Movement Mortgage,31,19.12,0.0074,4.84
+3357,beem Light Sauna,38,17.21,0.0027,4.74
+3358,Vital Care,36,15.65,0.029,4.68
+3359,Buff City Soap,51,1.24,0.0007,4.64
+3405,Speedycash,34,25.0,0.0004,4.56
+3586,Juice It Up!,55,2.2,0.0009,4.29
+3587,Firebirds Wood Fired Grill,65,2.86,0.0093,4.34
+3677,Terra Holdings,33,24.66,0.0174,4.11
+3289,Rite Aid,43,2.72,0.0009,3.54
+3321,Mutual of Omaha Insurance Co,23,21.98,0.0016,4.76
+3360,Michigan Urgent Care,64,1.43,0.0003,4.47
+3361,Access Medical Centers,61,2.95,0.0008,4.6
+3362,Carlton Equities,26,15.6,0.0011,3.06
+3363,Preferred Residential Management,55,10.96,0.0135,4.31
+3444,New York Life Insurance,25,19.32,0.0215,4.33
+3481,National Heritage Academies,44,1.84,0.0024,3.13
+3517,Grunt Style,45,18.94,0.0029,4.92
+3518,Café Zupas,51,13.64,0.3172,4.34
+3519,Troon,64,6.1,0.0016,4.42
+3520,Broadmoor ,42,18.44,0.0128,4.61
+3678,Dominium,23,13.94,0.0159,3.62
+3322,New York Life,26,21.45,0.0111,4.97
+3408,Farris Properties,16,18.88,0.0568,3.19
+3409,Preservation Management,19,15.76,0.0436,3.38
+3482,Northstar Properties,24,13.17,0.0126,3.08
+3483,Weidner Apartment Homes,44,10.47,0.0002,4.11
+3657,Premier Rental,38,16.52,0.0041,4.4
+3679,NRP Group,26,13.91,0.003,3.84
+3410,Elme Communities,39,16.96,0.0045,3.76
+3485,Zumiez,30,23.22,0.169,4.23
+3523,Athletico Physical Therapy,52,3.34,0.0107,4.94
+3555,PEG Property Management,37,18.14,0.0181,4.13
+3621,City Wide Facility Solutions,42,15.2,0.0111,4.44
+3556,11 Residential,33,14.18,0.0015,3.69
+3680,S.L. Nusbaum Realty Co,29,14.88,0.0066,3.84
+3292,NEXA Mortgage,29,17.05,0.0046,4.85
+3366,Tribridge Residential,40,18.88,0.0039,4.11
+3367,Tarragon Property Services,23,15.95,0.0149,3.62
+3369,TRIO Properties,38,14.5,0.0047,4.22
+3370,Travis Hyde Properties,27,22.44,0.1602,3.22
+3371,PLK Communities,40,13.65,0.01,3.99
+3372,Panther Residential Management,46,11.23,0.0078,4.01
+3374,Essex Property Trust,37,16.65,0.0244,3.46
+3412,JCPenney Salon,27,21.12,0.019,3.83
+3557,Costello Property Management,25,14.38,0.0464,3.56
+3558,RedPeak Properties,31,21.96,0.0141,3.73
+3622,Nova Property Network,27,10.67,0.0026,3.84
+3623,Los Altos Ranch Market,51,4.25,0.0018,4.18
+3659,The Edge Fitness Clubs,69,4.6,0.0031,4.15
+3293,Advanced Dermatology and Cosmetic Surgery,49,3.43,0.0062,4.48
+3375,Affinity Property Management,20,20.47,0.0021,3.3
+3449,GLD Management Company,26,9.89,0.3085,3.43
+3487,Ad-West Realty Services,19,11.71,0.0118,3.44
+3525,CMIT Solutions,33,13.02,0.0043,4.91
+3659,The Edge Fitness Clubs,69,4.6,0.0031,4.15
+3450,Cigna,23,22.02,4.21,2.24
+3561,Avan Property Management,24,15.5,0.0042,3.46
+3593,RBM Partners,32,11.8,0.0063,3.64
+3627,Fourmidable Real Estate Management,29,25.0,0.0052,3.66
+3660,Anthem Memory Care,58,2.0,0.0155,4.17
+3659,The Edge Fitness Clubs,69,4.6,0.0031,4.15
+3295,Carquest - 2024 Renewal,53,5.38,0.0061,4.56
+3327,RBC Wealth Management,26,20.7,0.0503,5.0
+3451,Stifel,29,2.45,0.0031,4.47
+3489,Woodcraft,56,1.01,0.0084,4.59
+3527,Wild Birds Unlimited,55,7.37,0.0371,4.77
+3563,American Council of Life Insurers,35,21.8,0.0038,2.95
+3595,Gallagher,23,22.38,0.3625,3.61
+3037,Kaiser Permanente,43,25.0,0.14,3.95
+3328,Spavia Day Spa,63,2.1,0.0008,4.68
+3452,Mission Veterinary Partners,70,2.38,0.0096,4.58
+3490,"Samuel, Son & Co.",35,4.96,0.0439,4.02
+3528,Republic Parking,36,17.84,0.0126,2.94
+3630,Barrington Residential,28,8.74,0.0011,3.56
+3631,PROSHRED,50,4.75,0.0009,4.64
+3050,Assisting Hands,42,10.11,0.0012,4.72
+3298,Graybar,32,2.17,0.0344,4.28
+3565,Signal Security,27,15.57,0.0052,3.69
+3599,STK,83,4.62,0.0018,4.45
+3600,Arlington Properties,38,14.19,0.042,3.87
+3632,Tailored Closet,47,21.02,0.0088,4.9
+3299,Vanguard,20,25.0,0.7159,3.18
+3380,Combined Insurance,26,21.57,0.0007,3.14
+3381,Costa Vida,61,14.1,0.0086,4.16
+3420,Fitness 19,66,3.38,0.0013,4.28
+3454,Cornerstone Home Lending,32,10.13,0.0055,4.68
+3601,J.P. Morgan,21,23.68,0.5652,3.29
+3088,Accent Meubles,53,1.06,0.0015,4.38
+3332,Western & Southern Life,27,20.5,0.0034,4.03
+3383,Winn Residential,33,12.04,0.0017,3.71
+3421,Jazzercise,47,13.79,0.01,4.86
+3455,Greenbrier Management Company,17,25.0,0.0079,3.27
+3495,Nordstrom Rack,64,5.83,0.5646,4.15
+3531,Just Between Friends,47,17.13,0.0051,4.52
+3602,Brake Masters,37,19.82,0.0083,4.31
+3382,4Ever Young Anti Aging,52,25.0,0.0021,4.94
+3261,Advanced Dental Implant Center,37,25.0,0.0928,4.6
+3302,BDC,24,24.4,0.0014,2.77
+3333,Knightvest Management,38,17.82,0.005,3.79
+3384,UIP Property Management,16,15.46,0.0142,3.25
+3456,La Familia Insurance,45,14.14,6.86,4.78
+3532,Penn Station East Coast Subs,44,2.97,0.0057,4.15
+3568,Red Dot Storage,35,6.42,0.0176,3.61
+3603,Brandt Tractor Ltd.,38,2.2,1.1459,4.23
+3636,National Property Inspections,33,20.22,0.0065,4.82
+3661,Freedom Development Group,24,20.56,0.0064,3.34
+3334,Transamerica,28,15.74,0.0187,3.49
+3387,United Water Restoration Group,50,5.36,0.0054,4.77
+3388,Fairway Independent Mortgage Company,35,17.4,0.0072,4.78
+3457,A-Plan Insurance,42,1.06,0.1004,4.31
+3533,Sequoia Equities,49,12.23,0.0031,4.11
+3569,Spring Green,40,15.07,0.0033,4.07
+3604,Pillar to Post Home Inspectors,40,17.15,0.0087,4.95
+3637,Lime Painting,35,21.31,0.0097,4.81
+3659,The Edge Fitness Clubs,58,4.6,0.0031,4.15
+3304,UNITS Moving and Portable Storage,45,1.41,0.0102,4.92
+3424,K9 Resorts Luxury Pet Hotel,65,4.52,0.0083,4.77
+3425,VCA,70,4.64,0.0026,4.34
+3458,CVS,43,2.46,16.2036,2.92
+3499,American Car Collectors Insurance,60,25.0,0.0004,4.9
+3534,Green Valley Grocery,21,12.96,0.0014,3.65
+3570,Black Rock Coffee Bar,55,7.85,0.0196,4.46
+3605,Mike Holmes Inspections,28,23.43,0.0284,4.92
+3305,Summit Property Management,32,13.65,0.001,3.32
+3306,American Family Insurance,45,13.01,0.0066,4.64
+3336,Prudential,16,24.78,0.0,3.86
+3459,The Sunshine House,43,5.89,0.3878,4.33
+3501,EZPAWN,45,2.22,0.0012,4.47
+3571,KinderCare,54,10.72,0.0171,4.38
+3662,Epic Asset Management,33,16.72,0.0037,3.56
+3664,Thrive Communities,34,13.07,0.0013,3.86
+3663,Aegis Living,45,25.0,0.0304,4.43
+3307,American National Insurance,29,18.92,0.1164,4.43
+3337,MassMutual,26,24.32,0.0299,4.49
+3427,Indio Management,24,17.6,0.0092,3.14
+3502,Advanced Dermatology,28,19.0,0.003,4.46
+3504,The Collier Companies,41,18.35,0.0032,4.04
+3536,Fit4Less,43,1.78,0.1608,3.85
+3608,Retro Fitness,65,3.76,0.0007,4.18
+3392,Oaks Properties,34,12.93,0.0018,4.39
+3428,LivCor,51,12.81,0.0024,4.23
+3462,The Richman Group,24,14.13,0.0021,3.58
+3506,The Little Gym,59,17.51,0.002,4.7
+3609,Chick-Fil-A,62,5.34,0.0048,4.37
+3642,Vintage Realty,36,8.78,0.0022,3.74
+3643,National Church Residences,25,21.3,0.0113,3.9
+3309,Chair King Backyard Store,51,1.24,0.0256,4.73
+3310,Charles Schwab,27,23.64,0.0468,3.68
+3429,Hamilton Point Investments,32,15.97,0.0027,3.61
+3430,Hard Rock Hotel,60,13.0,0.0015,4.23
+3463,Brookside Properties,29,20.39,0.0402,3.2
+3507,HUB International,36,18.51,0.0161,4.09
+3341,Ameriprise Financial,27,17.34,0.0122,4.57
+3394,Advance America,56,2.41,0.0224,4.93
+3431,The Storage Mall,37,5.44,0.1047,4.27
+3464,Costco Wholesale,64,4.98,0.0077,4.53
+3508,Monroe Group,22,13.16,0.0043,3.27
+3540,BrightPath,41,5.0,0.024,4.74
+3541,Sullivan’s Steakhouse,70,2.6,0.0079,4.23
+3035,Top Rail Fence,38,23.48,0.0099,4.72
+3036,Thrive Mortgage,33,9.48,0.0059,4.71
+3040,Northern Management,15,16.56,0.018,3.8
+3041,PremierGarage,46,24.8,0.0116,4.87
+3044,Knights of Columbus,30,21.18,0.0058,4.75
+3012,Rotary,31,20.46,0.0114,4.77
+3013,Best Buddies,35,12.36,0.0029,3.82
+3014,American Heart Association,31,23.82,0.0012,4.11
+3015,AARP,34,24.2,0.0031,3.68
+3038,Peterson Companies,26,15.16,0.0719,3.05
+3039,Goldelm Capital,30,15.22,0.0063,2.87
+3043,AvalonBay Communities,58,12.93,0.0006,4.47
+3052,Hand and Stone Massage and Facial Spa,60,6.29,0.0004,4.3
+3053,Willamette Dental Group,43,17.34,0.0942,3.85
+3054,BoxDrop,59,3.37,0.0206,4.87
+3056,Baptist Health,45,22.29,0.0032,3.29
+3057,Nutrition House,40,3.22,0.0007,4.12
+3059,rue21,42,5.05,0.1083,4.18
+3062,Mark Taylor Residential,54,14.09,0.0278,4.19
+3063,PRC Group,26,14.0,0.0048,3.16
+3065,Comparion Insurance,41,11.65,0.0073,4.14
+3066,Liberty Mutual,25,20.43,0.0135,3.15
+3067,Norris & Stevens,14,17.08,0.022,3.43
+3069,Maxus Properties,43,11.74,0.0072,3.94
+3071,System4,24,20.12,0.0103,4.16
+3072,Woodmont Real Estate Services,29,17.81,0.0275,3.42
+3074,Service Experts,50,7.83,0.0054,4.74
+3077,Real Property Management Express,38,10.21,0.0025,4.42
+3078,Haley Residential,27,13.21,0.004,3.65
+3079,SoBol,49,16.94,0.0049,4.33
+3081,LifePoint Health,50,11.8,0.0069,3.28
+3082,Rouse Management Company,27,19.79,0.0092,4.47
+3083,Investors Property Services,29,20.44,0.0048,3.36
+3084,Hayloft Property Management,22,15.07,0.0051,2.71
+3085,Barnes and Noble,63,1.52,0.0039,4.55
+3086,CRDN,18,23.57,0.0413,3.68
+3089,McCathren Property Management,23,16.27,0.0114,3.34
+3092,Hard Rock Cafe,66,7.21,0.0007,4.16
+3093,Benchmark Mortgage,40,10.78,0.003,4.8
+3095,Cascade Management,25,16.18,0.0029,3.7
+3097,City Barbeque,63,1.95,0.0096,4.3
+3101,Nationwide Insurance,21,11.95,0.0043,4.24
+3102,Citizens Bank,31,12.96,0.0012,3.82
+3104,Chem-Dry Carpet & Upholstery Cleaning,40,16.65,0.0053,4.67
+3109,Villa Serena Communities,28,14.65,0.0089,3.47
+3110,Simplicity Car Care,43,6.74,0.0197,4.59
+3111,Bonavista Management,23,21.5,0.0014,3.39
+3112,Paramount Residential Mortgage Group,32,12.18,0.007,4.74
+3113,barre3,63,11.16,0.0036,4.93
+3115,Maloney Properties,33,19.35,0.0354,3.98
+3117,Janney Montgomery Scott,21,15.62,0.0074,4.65
+3118,Community Builders,18,13.12,0.0272,3.54
+3119,Geico,34,19.76,0.0037,3.69
+3123,Truist,33,14.55,0.0145,2.86
+3124,Farmers Insurance,36,16.61,0.0181,4.45
+3114,Advanced Management Group,18,19.74,0.0085,3.19
+3127,Fidelity National Title Group,31,10.42,0.0135,4.19
+3128,Just Salad,50,11.44,0.2761,4.2
+3131,Wasatch Property Management,41,13.31,0.0009,4.04
+3132,State Farm,39,14.96,0.0154,4.18
+3133,Quaker Steak & Lube,58,15.76,0.0009,4.02
+3136,BAYADA Home Health,40,7.41,0.0196,3.48
+3141,The Bar Method,62,11.11,0.0016,4.94
+3142,Island Health,32,18.4,0.0116,3.83
+3143,OK Tire,53,3.61,0.0712,4.54
+3145,Thrivent Financial,21,15.71,0.0052,4.39
+3147,Toppers Pizza,69,4.57,0.0069,4.16
+3149,Principal,24,23.51,0.0177,3.42
+3153,Smile Doctors,71,2.22,0.0029,4.82
+3154,MG Properties Group,37,20.98,0.0015,3.75
+3155,Sage Dental,50,14.43,0.0042,4.34
+3159,Spray-Net,45,23.68,0.0342,4.96
+3160,Northwestern Mutual,22,19.12,0.0151,4.33
+3161,Two Maids,55,4.27,0.0017,4.63
+3164,Premier Garage,45,23.18,0.0064,4.91
+3167,Kitchen Tune-Up,45,17.25,0.0027,4.68
+3169,Centennial Bank,34,7.64,0.024,3.82
+3170,Bath Tune-Up,38,20.95,0.0068,4.94
+3171,Aussie Pet Mobile,47,24.04,0.0063,4.26
+3172,Advantaclean,39,17.23,0.0054,4.79
+3173,YMCA of Oklahoma City,38,18.11,0.0039,4.23
+3174,AtWork Group,40,9.21,0.0203,4.25
+3183,PharMerica,25,11.97,0.01,3.35
+3185,Diamond Property Management,9,17.7,0.0139,3.11
+3186,Deli Delicious,46,4.49,0.0009,4.02
+3187,Encova Mutual Insurance Group,35,15.06,0.0142,4.64
+3189,Ryder,35,3.62,13.1624,4.04
+3195,Price Edwards & Company,24,25.0,0.0055,3.48
+3196,Ascent Residential,40,25.0,0.0019,3.6
+3197,Logan Property Management,29,18.46,0.0136,3.39
+3198,Dawn Asset Management,18,17.14,0.0002,3.18
+3199,Randstad,29,9.16,0.0121,4.05
+3202,Guaranteed Rate,32,18.5,0.0067,3.88
+3207,BNY Mellon,19,15.11,0.0158,3.78
+3209,Office Pride Commercial Cleaning Services,29,15.66,0.0088,4.47
+3211,Mosquito Squad,44,21.64,0.0009,4.88
+3212,Bloomin Blinds,40,17.66,0.0051,4.96
+3213,Window Hero,37,25.0,0.0092,4.85
+3216,BryTen Management,30,12.9,0.0067,3.63
+3217,Sheng Raamco Management,25,14.71,0.007,3.26
+3219,Huntington Learning Center,59,2.73,0.0009,4.64
+3220,Cadence Education,62,7.03,0.0154,4.58
+3221,Learning Care Group,36,6.94,0.1738,3.77
+3222,Fred Astaire Dance Studio,60,4.46,0.0068,4.89
+3223,The Camp Transformation Center,55,2.68,0.0004,4.68
+3226,Visique,45,1.28,0.1723,4.64
+3228,Sign Gypsies,42,22.42,0.0025,4.84
+3229,Network Funding,27,13.31,0.0008,3.72
+3230,Prime Lending,40,9.82,0.0017,4.83
+3232,EG America,36,19.92,0.0214,3.31
+3234,Mrs. Fields,28,9.43,0.0125,3.77
+3237,Hounds Town,59,6.57,0.0047,4.9
+3238,Voodoo Brewing Company,51,5.62,0.0063,4.4
+3240,Cardinal Financial Company,33,16.73,0.004,3.38
+3312,Country Financial,40,18.64,0.0144,4.76
+3244,Capstone Real Estate Investments,31,21.52,0.0019,3.85
+3342,Allstate,40,14.59,0.0142,4.57
+3250,Ovation Property Management,37,16.18,0.004,3.79
+3250,Ovation Property Management,39,16.18,0.004,3.79
+3252,Better Homes and Gardens,63,22.9,0.0092,4.85
+3252,Better Homes and Gardens,31,22.9,0.0092,4.85
+3253,ERA,32,20.84,0.0092,4.97
+3254,Coldwell Banker Commercial,23,25.0,0.0176,4.33
+3255,Coldwell Banker,34,22.71,0.0108,4.7
+3256,Property Management,39,25.0,0.0,4.3
+3257,Members 1st Federal Credit Union,35,2.33,0.1327,3.82
+3260,Germania Insurance,28,16.42,0.0257,4.06
+3262,DDS Dentures & Implant Solutions,54,22.67,0.0117,4.46
+3264,Bowlero,70,1.56,0.0006,4.18
+3248,Sky Zone,66,2.9,0.001,4.21
+3270,Five Star Bath Solutions,41,18.61,0.0084,4.65
+3271,SchoolsFirst Federal Credit Union,42,3.58,0.0064,4.33
+3273,Dog Guard,40,16.83,0.008,4.81
+3274,Spenga,59,3.69,0.0072,4.86
+3275,Signarama,52,2.21,0.0043,4.86
+3276,Gates Hudson,24,13.09,0.004,3.48
+3277,Solomon Organization,30,13.81,0.0014,3.4
+3278,Cadillac,56,20.94,0.0027,4.4
+1,1-800 Water Damage,46,8.62,0.0083,4.92
+5,911 Restoration,48,8.35,0.0057,4.67
+13,American Family Care,64,2.05,0.0008,4.25
+941,ZRS,38,10.58,0.0191,3.87
+18,AR Workshop,56,4.41,0.0011,4.94
+28,"BH Management Services, LLC",40,25.0,0.0026,3.86
+29,Big O Tires,70,2.9,0.0043,4.28
+38,Buffalo Wild Wings,57,5.56,0.001,3.77
+39,Burger King,42,12.19,0.0143,3.47
+43,Card My Yard,44,24.9,0.0035,4.97
+64,Conserva Irrigation,41,15.28,0.0035,4.81
+66,Cost Cutters Family Hair Care,49,13.17,0.0091,4.1
+72,Cruise Planners,32,15.83,0.0024,4.76
+79,Delta Restoration Services,44,10.8,0.0141,4.61
+86,Econo Lodge,42,9.76,0.0469,3.33
+112,H&R Block,47,3.69,0.2218,4.65
+124,HoneyBaked Ham,52,24.41,0.59,4.39
+126,Hyatt,67,10.08,0.0041,4.3
+131,Jackson Hewitt,50,7.06,0.0096,4.63
+137,Jiffy Lube,66,2.72,0.0123,4.36
+161,Midas,53,10.56,0.1364,4.23
+163,Minuteman Press,42,2.28,0.012,4.79
+171,Mr. Rooter,55,9.02,0.0043,4.62
+173,N-Hance Wood Refinishing,41,17.1,0.0084,4.78
+182,Outback Steakhouse,63,22.85,0.0004,4.14
+183,Palm Beach Tan,58,1.87,0.0031,4.25
+184,Panera Bread,53,10.7,0.0004,3.97
+186,Papa Murphy's,41,9.46,1.3275,4.32
+188,Paul Davis Restoration,45,7.11,0.0046,4.32
+191,Pet Wants,46,13.37,0.0045,4.94
+194,Pizza Hut,54,3.95,0.0012,3.65
+198,Potbelly Sandwich Shop,68,2.37,1.0572,4.12
+200,Profile by Sanford,59,1.98,0.0208,4.95
+206,Quality Inn & Suites,52,5.45,0.0181,3.67
+212,Red Roof Inn,40,8.83,0.0274,3.4
+231,Snap-on Tools,14,10.97,0.0282,3.94
+232,Snapology,36,21.48,0.0021,4.9
+235,Spherion,41,5.58,0.0042,4.47
+241,Stratus Building Solutions,37,15.6,0.0049,4.3
+248,Take 5 Oil Change,57,2.46,0.0263,4.49
+254,The Maids,53,7.91,0.0321,4.3
+262,Twin Peaks,73,17.43,0.0206,4.38
+263,Two Men and A Truck,71,2.33,0.0057,4.46
+264,ubreakifix,61,1.92,0.0025,4.53
+266,Valvoline Instant Oil Change,52,2.28,0.0043,4.3
+270,Whataburger,55,8.94,0.0134,4.03
+274,Wireless Zone,49,4.38,0.0012,4.67
+275,Wyndham Hotels & Resorts,54,6.98,0.0033,3.81
+288,Publix,60,9.16,0.0044,4.54
+304,British Swim School,51,7.74,0.0019,4.66
+306,Oasis Senior Advisors,35,20.04,0.0082,4.99
+310,Road Runner Sports,82,1.05,0.0002,4.72
+312,Prime Storage,34,22.26,8.8948,4.4
+314,Carpet One,50,3.04,0.0224,4.43
+315,The Human Bean,70,8.5,0.0093,4.57
+322,The Durst Organization,39,21.0,0.0033,3.73
+326,Gables Residential,47,23.3,0.0046,3.92
+334,Doran Companies,34,13.0,0.0063,4.2
+338,BLDG Management,41,19.75,0.0023,3.48
+339,McWhinney,32,17.5,0.0054,3.55
+351,Lurin Capital,30,12.17,0.0037,3.62
+359,Jones & Jones Communities,42,19.2,0.0001,3.35
+378,"Superior Auto, Inc",33,6.85,0.0051,4.17
+387,Pizza Guys,38,4.6,0.0036,4.11
+423,The Life Properties,40,17.52,0.0013,3.33
+426,Nolan Real Estate,48,11.33,0.0035,4.05
+448,Magnolia Capital,55,11.43,0.0005,3.99
+454,NVision,48,19.57,0.0048,4.18
+459,Women's Care of FL,34,25.0,0.0158,4.32
+461,Fit4Mom,36,24.29,0.0039,4.96
+506,Playa Bowls,39,25.0,0.017,4.01
+509,Coffee Beanery,33,4.38,0.0093,4.01
+521,ALG Senior,37,4.27,0.0227,3.47
+529,CA Student Living,49,13.15,0.002,3.44
+531,The Colliers Companies,49,20.16,0.0011,3.92
+533,Campus Apartments,44,23.31,0.0006,3.27
+541,Domino's Pizza,45,9.8,0.0184,3.66
+547,Victory Automotive Group,69,18.71,0.0005,4.25
+553,Jet's Pizza,60,6.78,3.9306,4.09
+556,Lennar Multi Family Communities,54,16.29,0.0037,4.15
+561,Fazoli's,71,18.62,1.753,4.14
+568,Fresh Set,45,25.0,0.4235,1.8
+569,Garage Force,37,20.78,0.0095,4.91
+581,JDog Junk Removal,45,19.02,0.009,4.94
+582,Two Maids & A Mop,56,3.81,0.0017,4.57
+583,Handel's Homemade Ice Cream,69,2.37,0.0075,4.68
+597,Decron Properties Corp,36,13.0,0.0086,3.69
+607,S2 Residential,35,22.83,0.0009,3.27
+610,Pierce Education Properties,47,21.22,0.0019,3.46
+632,Drucker and Falk,35,14.55,0.0097,3.65
+633,Broadmoor Marquee,46,12.18,0.0159,4.53
+645,Lowe's Home Improvement,52,2.73,0.001,3.85
+656,Eagle Rock Advisors,27,9.51,0.0034,3.54
+657,The Woodhouse Day Spa,74,1.47,0.0022,4.59
+658,Concrete Craft,35,18.48,0.0144,4.44
+659,Massage Heights,69,13.23,0.0005,4.37
+678,Price Less Foods,39,3.85,1.012,4.28
+775,My Place Hotel,55,9.95,0.0018,4.3
+800,Le Peep,54,16.05,0.0124,4.39
+815,Hire Dynamics,46,3.6,0.006,4.7
+818,Finish Line,33,24.84,0.0008,3.96
+819,Sportsman's Warehouse,74,3.53,0.004,4.23
+828,CVG Properties,30,13.27,0.0013,3.68
+831,CKO Kickboxing,58,16.58,0.0037,4.7
+834,Go Mini's,34,21.77,0.0042,4.61
+842,Ikea,56,17.14,0.0001,4.19
+845,MRD,33,5.43,0.0093,3.78
+846,BAYADA,48,11.1,0.015,4.11
+847,Desert Sun,39,24.74,0.0128,4.56
+860,Precision Tune Auto Care,56,10.35,0.0081,4.29
+864,Liberty Military Housing,35,22.63,0.0023,3.82
+870,Nicolet National Bank,35,4.41,0.0272,3.95
+879,Pacifica SD Management,33,24.43,0.0006,3.22
+881,In-Shape Health Clubs,76,3.52,0.0012,4.36
+911,Checkers,49,7.73,0.0108,3.65
+913,Centerspace Homes,45,8.52,0.0025,3.84
+925,HTeaO,71,4.16,0.0047,4.76
+931,McLaren,64,3.06,0.0044,2.81
+945,Four Seasons Sunrooms,41,5.62,0.0041,3.71
+958,Reebok,51,25.0,0.0013,4.34
+961,Forever 21,44,5.78,0.1857,3.93
+964,Aéropostale,46,12.2,0.01,4.24
+969,AFC Urgent Care,68,2.12,0.0038,4.44
+971,Action Karate,57,2.96,0.0036,4.91
+987,Berlitz,45,2.71,0.0004,4.43
+989,Beef Jerky Outlet,34,22.03,0.0037,4.34
+991,Heaven's Best Carpet Cleaning,39,9.03,0.0176,4.61
+992,The Perfect Workout,47,5.62,0.0016,4.84
+1007,Intelligent Office,47,4.11,0.0015,4.75
+1115,HNN Associates,38,23.21,0.009,3.39
+1122,Bass Pro Shops,72,5.96,0.0014,4.41
+1161,Yogurtland,74,1.2,0.0002,4.42
+1175,Learning Express Toys,64,1.14,0.0008,4.39
+1177,J. Alexander's,64,14.83,0.0034,4.45
+1178,Logan’s Roadhouse,62,3.63,0.0041,3.85
+1186,Allstate Insurance,44,10.08,0.0111,4.54
+1195,Atrium Health,43,23.25,0.0073,3.83
+1196,Havertys Furniture,47,5.55,0.079,4.59
+1227,Timberland,39,13.31,0.0091,4.11
+1235,JUMP! Swim Schools,46,25.0,0.004,4.65
+1238,Ninja Parc,44,25.0,0.0009,4.47
+1239,Genesis Health and Fitness,50,25.0,0.0031,4.33
+1244,Buckingham Properties,25,23.67,0.0016,3.05
+2001,Shottenkirk,61,20.49,0.0071,4.28
+2006,The Princeton Review,27,15.09,0.001,4.4
+2008,AMC Theatres,58,1.66,0.0018,4.19
+2012,Edward Jones,28,6.88,0.0091,4.33
+2015,Wells Fargo Bank,31,6.65,0.0259,3.15
+2016,Citizens,38,6.78,0.0051,3.31
+2017,Bank of America,47,8.33,0.0988,2.49
+2018,PNC Bank,27,9.16,0.2034,3.21
+2020,Prudential Bank,23,25.0,0.0059,4.22
+2028,1st Family Dental,64,8.0,0.0022,4.43
+2030,Lane & Associates Family Dentistry,64,6.24,0.0013,4.89
+2033,Costco Vision Center,40,4.33,0.0373,3.69
+2035,Walmart Vision & Glasses,50,2.73,0.0045,3.73
+2036,Visionworks,42,7.7,0.0022,4.13
+2041,CWT,26,15.43,0.0033,4.0
+2048,North American Van Lines,30,14.58,0.0135,3.58
+2059,Sprinkles,52,13.31,0.0002,3.93
+2061,Sunoco Gas Station,30,5.2,0.0422,3.63
+2064,Chevron,30,6.5,0.0445,3.59
+2065,Citgo,28,7.87,0.0389,4.06
+2066,Lukoil,30,5.22,17.3703,3.77
+2067,BP,30,6.32,0.6637,3.65
+2075,Trader Joe's,65,7.47,0.1556,4.65
+2089,Petland,59,4.88,0.0046,3.97
+2091,Woof Gang Bakery & Grooming,68,5.17,0.0067,4.56
+2094,Play It Again Sports,58,2.57,0.0047,4.26
+2097,ADT Security Services,30,6.04,0.0174,2.87
+2099,One Hour Heating & Air Conditioning,50,14.28,0.0028,4.52
+2100,ProLift Garage Doors,48,19.92,0.0216,4.88
+2101,DoodyCalls,38,22.84,0.0101,4.62
+3011,ACLU,29,25.0,0.0016,3.27
+2112,Moove In Self Storage,42,2.0,0.1006,4.6
+3000,Kiwanis International,25,20.77,0.0145,4.58
+3001,Mothers Against Drunk Driving,29,20.57,0.0055,3.91
+3002,Lions Club,32,7.58,0.0036,4.32
+3003,Hillel,31,24.6,0.0048,4.66
+3004,National Association of Social Workers,31,24.27,0.0017,4.42
+3005,United Steelworkers,33,3.01,0.0166,4.4
+3008,JDRF,33,23.69,0.0019,4.44
+3010,National Wildlife Federation,28,18.57,0.0002,3.97
+3016,Alzheimer's Association,36,24.02,0.0012,4.58
+3017,United Way,38,13.61,0.0035,4.36
+3018,The American Legion,39,3.1,0.0451,4.52
+522,Life Care Services LLC,61,9.09,0.0109,4.46
+3313,Farm Bureau Financial Services,32,12.27,0.0183,4.6
+3343,Renew Smiles,36,11.07,0.0181,4.66
+3346,Martinizing Cleaners,38,8.43,0.0027,4.4
+3395,Wogan Group,21,14.6,0.0025,3.41
+3465,Fairfield Property Management,41,11.18,0.0207,3.83
+3466,National Bank,36,2.77,6.5042,3.29
+3509,Chamberlin + Associates,20,21.07,0.0057,3.47
